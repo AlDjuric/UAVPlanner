@@ -1,7 +1,5 @@
 # UAVPlanner
 
-# Flight Route Planning Tool
-
 ## Overview
 
 This project is a **QML-based UAV flight route planning tool** that allows users to:
@@ -61,14 +59,9 @@ sudo pacman -S qt6-base qt6-declarative qt6-location
 
 Or, download Qt from [Qt Official Website](https://www.qt.io/download).
 
-### **2. Clone the Project**
 
-```bash
-git clone https://github.com/yourusername/flight-planner-qml.git
-cd flight-planner-qml
-```
 
-### **3. Build & Run**
+### **2. Build & Run**
 
 ```bash
 qtcreator .
